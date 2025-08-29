@@ -1,8 +1,10 @@
 # FantasyFoundry
 https://github.com/copilot/share/8a6e4030-49c4-84c6-a100-044400066176
 
-Design an android app called "Fantasy Foundry" a computer and memory chip design app where users pick their favorite "free agent" chip to bid on the leading edge TSMC 2nm node
+"Design an android app called "Fantasy Foundry" a computer and memory chip design app where users pick their favorite "free agent" chip to bid on the leading edge TSMC 2nm node"
+
 Copilot said: Absolutely, here’s a conceptual design for **"Fantasy
+
 Absolutely, here’s a conceptual design for "Fantasy Foundry", an Android app where users play as semiconductor architects, bidding and competing for top-tier "free agent" chips to deploy on the latest TSMC 2nm process node. The app gamifies the process of chip selection, bidding, and deployment, with educational and strategic elements.
 
 1. App Concept Overview
