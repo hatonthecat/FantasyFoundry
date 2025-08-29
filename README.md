@@ -1,6 +1,8 @@
 # FantasyFoundry
 https://github.com/copilot/share/8a6e4030-49c4-84c6-a100-044400066176
 
+You've heard of fantasy football. But have you heard of Fantasy Foundry?
+
 "Design an android app called "Fantasy Foundry" a computer and memory chip design app where users pick their favorite "free agent" chip to bid on the leading edge TSMC 2nm node"
 
 Copilot said: Absolutely, here’s a conceptual design for **"Fantasy
