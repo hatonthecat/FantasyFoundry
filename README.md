@@ -5,9 +5,9 @@ You've heard of fantasy football. But have you heard of Fantasy Foundry?
 
 "Design an android app called "Fantasy Foundry" a computer and memory chip design app where users pick their favorite "free agent" chip to bid on the leading edge TSMC 2nm node"
 
-Copilot said: Absolutely, here’s a conceptual design for **"Fantasy
+Copilot said: 
 
-Absolutely, here’s a conceptual design for "Fantasy Foundry", an Android app where users play as semiconductor architects, bidding and competing for top-tier "free agent" chips to deploy on the latest TSMC 2nm process node. The app gamifies the process of chip selection, bidding, and deployment, with educational and strategic elements.
+"Absolutely, here’s a conceptual design for "Fantasy Foundry", an Android app where users play as semiconductor architects, bidding and competing for top-tier "free agent" chips to deploy on the latest TSMC 2nm process node. The app gamifies the process of chip selection, bidding, and deployment, with educational and strategic elements.
 
 1. App Concept Overview
 Fantasy Foundry is a competitive simulation game where users act as CTOs or chip designers. Each season, new "free agent" CPU, GPU, NPU, and memory chip designs become available. Users assemble their dream SoC (System-on-Chip) by scouting and bidding on the best IP blocks to manufacture at TSMC’s 2nm node, balancing performance, power, and budget.
@@ -98,4 +98,4 @@ Gamifies the chip design and manufacturing process.
 Educational for students and enthusiasts.
 Taps into real-world chip news and trends.
 Community-driven and seasonally refreshed.
-Would you like a technical architecture diagram, sample code structure, or UI wireframes next?
+Would you like a technical architecture diagram, sample code structure, or UI wireframes next?"
